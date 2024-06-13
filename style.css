@@ -1,3 +1,8 @@
+.comfortaa <comfortaafont> {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 300;
+}
+
 body {
     background-color: #121212;
     text-align: center;
